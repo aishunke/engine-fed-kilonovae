@@ -1,0 +1,27 @@
+Lambda_c = {}
+Lambda_c['U'] = 0.36
+Lambda_c['B'] = 0.44
+Lambda_c['V'] = 0.55
+Lambda_c['R'] = 0.64
+Lambda_c['I'] = 0.79
+Lambda_c['J'] = 1.26
+Lambda_c['H'] = 1.60
+Lambda_c['K'] = 2.22
+Lambda_c['g'] = 0.52
+Lambda_c['r'] = 0.67
+Lambda_c['i'] = 0.79
+Lambda_c['z'] = 0.91
+
+Flux0 = {}
+Flux0['U'] = 1810
+Flux0['B'] = 4260
+Flux0['V'] = 3640
+Flux0['R'] = 3080
+Flux0['I'] = 2550
+Flux0['J'] = 1600
+Flux0['H'] = 1080
+Flux0['K'] = 670
+Flux0['g'] = 3730
+Flux0['r'] = 4490
+Flux0['i'] = 4760
+Flux0['z'] = 4810 
