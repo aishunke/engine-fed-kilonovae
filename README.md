@@ -27,7 +27,17 @@ Input file:
 
   The input parameters in "Input_main.txt" are similar as those in "Input.txt", but with parameter ranges and resolutions listed.
 
-  
+
+
+  Output file:
+
+  Output files is stored in the folder "Results_sh_x”. The filename contains the information of spin-down luminosity, total energy budget, opacity of the ejecta, mass of the ejecta, and fraction of spin-down energy that would dissipate into X-ray photons. 
+
+  Column 1: time (seconds) in observer’s frame
+
+  Column 2: bolometric luminosity in unit of $erg/s$
+
+  Column 3 - 14: $\nu L_{\nu}$ in unit of $erg/s$, in observational bands collected in “band.py”
 
   
     
