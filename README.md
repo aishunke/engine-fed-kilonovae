@@ -20,4 +20,14 @@ Input file:
   E_tot: total energy that would be relased through magnetar wind
 
   xi_sd_x: fraction of spin-down energy that would dissipate into X-ray photons.
+
+  Inputs/Input_mp/Input_main.txt:
+
+  The input file for multi-threaded computing. One needs to set "multiinputs = True" in "main.py", which is default to be "False".
+
+  The input parameters in "Input_main.txt" are similar as those in "Input.txt", but with parameter ranges and resolutions listed.
+
+  
+
+  
     
